@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi6004
+- 👋 Hi, I’m abhi
 - 👀 I’m interested in ...
 - 💞️ I’m want to  make some coding friends
 
