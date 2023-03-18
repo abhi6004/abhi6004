@@ -1,5 +1,5 @@
-- 👋 Hi, I’m abhi
-- 👀 I’m interested in webdev.
-- 💞️ I’m want to  make some coding friends
+👋 Hi, I’m @mbramani
+👀 I’m interested in Web Ddevelopment
+🌱 I’m currently learning MERN stack
 
 
