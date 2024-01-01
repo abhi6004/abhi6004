@@ -2,6 +2,4 @@
 
 👀 I’m interested in Web Ddevelopment
 
-🌱 I’m currently learning MERN stack
-
 
